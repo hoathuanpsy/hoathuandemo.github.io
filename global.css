@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto-mono: "Roboto Mono";
+  --font-roboto-flex: "Roboto Flex";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-3xl: 22px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-19xl: 38px;
+  --font-size-4xl: 23px;
+  --font-size-11xl: 30px;
+  --font-size-21xl: 40px;
+  --font-size-13xl: 32px;
+  --font-size-39xl: 58px;
+  --font-size-16xl: 35px;
+  --font-size-27xl: 46px;
+  --font-size-41xl: 60px;
+  --font-size-59xl: 78px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --grey-50: #81807e;
+  --dark-151: #262626;
+  --dark-15: #232329;
+  --dark-12: #1f1f1f;
+  --dark-121: #1c1c21;
+  --dark-10: #1a1a1a;
+  --dark-06: #0f0f0f;
+  --grey-70: #b4b3b1;
+  --color-darkslategray-100: #424242;
+  --dark-20: #333;
+  --grey-40: #676765;
+  --color-dimgray-100: #595959;
+  --color-dimgray-200: #525252;
+  --orange-95: #f9efec;
+  --grey-80: #ccc;
+  --orange-90: #f3dfd8;
+  --orange-70: #db9e8a;
+  --orange-60: #ce7d63;
+  --color-sienna: #b5634a;
+  --absolute-white: #fff;
+  --grey-90: #e6e6e6;
+  --orange-80: #e7beb1;
+
+  /* Gaps */
+  --gap-61xl: 80px;
+  --gap-xl: 20px;
+  --gap-21xl: 40px;
+  --gap-3xs: 10px;
+  --gap-6xs: 7px;
+  --gap-5xs: 8px;
+  --gap-base: 16px;
+  --gap-sm: 14px;
+  --gap-41xl: 60px;
+  --gap-11xl: 30px;
+  --gap-0: 0px;
+  --gap-10xl: 29px;
+  --gap-mini: 15px;
+  --gap-7xs: 6px;
+  --gap-xs: 12px;
+  --gap-11xs: 2px;
+  --gap-9xs: 4px;
+  --gap-lg: 18px;
+  --gap-31xl: 50px;
+  --gap-5xl: 24px;
+
+  /* Paddings */
+  --padding-11xl: 30px;
+  --padding-21xl: 40px;
+  --padding-8xs: 5px;
+  --padding-3xs: 10px;
+  --padding-4xs: 9px;
+  --padding-sm: 14px;
+  --padding-base: 16px;
+  --padding-xs: 12px;
+  --padding-11xs: 2px;
+  --padding-25xl: 44px;
+  --padding-smi: 13px;
+  --padding-10xl: 29px;
+  --padding-39xl: 58px;
+  --padding-4xs-5: 8.5px;
+  --padding-41xl: 60px;
+  --padding-5xl: 24px;
+  --padding-31xl: 50px;
+  --padding-13xl: 32px;
+  --padding-xl: 20px;
+  --padding-9xl: 28px;
+  --padding-20xl: 39px;
+  --padding-mini: 15px;
+  --padding-7xs-5: 5.5px;
+  --padding-6xs: 7px;
+  --padding-5xs: 8px;
+  --padding-28xl: 47px;
+  --padding-15xl: 34px;
+  --padding-61xl: 80px;
+  --padding-3xl: 22px;
+  --padding-lg: 18px;
+  --padding-9xs: 4px;
+
+  /* Border radiuses */
+  --br-base: 16px;
+  --br-3xs: 10px;
+  --br-81xl: 100px;
+  --br-7xs: 6px;
+  --br-xs: 12px;
+  --br-sm: 14px;
+  --br-5xs: 8px;
+  --br-xl: 20px;
+  --br-26xl: 45px;
+  --br-8xs: 5px;
+  --br-5xl: 24px;
+
+  /* Effects */
+  --shadow-light-bottom-right: 10px 10px 50px rgba(0, 98, 255, 0.03);
+}
